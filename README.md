@@ -32,5 +32,11 @@ This repository contains code for a project that predicts sales from customer da
 - scikit-learn
 - Matplotlib
 
+## Contributing
+
+If you find any issues, have improvements, or want to add new simulations, feel free to open an issue or create a pull request. Contributions are welcome!
+
+## License
+You are free to use, modify, and distribute the files for both commercial and non-commercial purposes.
 
 
